@@ -24,11 +24,11 @@ $./printDependency.sh
 
 ### Sample input:
 
-```myclass jquery jquery.cookie underscore base
-jquery base
-jquery.cookie jquery base
-underscore jquery base
-```
+    myclass jquery jquery.cookie underscore base
+    jquery base
+    jquery.cookie jquery base
+    underscore jquery base
+
 ### Output after sorting:
 >myclass jquery.cookie underscore jquery base
 
